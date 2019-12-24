@@ -48,7 +48,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-minimal_mistakes_skin    : contrast
 
 # SEO Related
 google_site_verification :
@@ -82,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matteo"
-  avatar           : "bio_pic.jpg"
+  avatar           : bio_pic.jpg
   bio              : "Hi! I am a PhD student in the Department of Statistics & Data Science at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         :
