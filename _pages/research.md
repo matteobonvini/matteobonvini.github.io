@@ -1,11 +1,8 @@
 ---
-title: "Selected Publications"
+title:
 permalink: /research/
 author_profile: true
 ---
-
-(See [Google Scholar](https://scholar.google.com/citations?user=I1OYOokAAAAJ&hl=en) for a full list)
-
 ### Statistics
 * <u>Bonvini, M.</u>, and Kennedy, E.. Sensitivity analysis via the proportion of unmeasured confounding. ([arXiv](https://arxiv.org/abs/1912.02793))
 	* Code: [R package](https://github.com/matteobonvini/sensitivitypuc); [experiments for paper](https://github.com/matteobonvini/experiments-sensitivity-paper).
