@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matteo Bonvini"
 title_separator          : "-"
 name                     : &name "Matteo Bonvini"
-description              : &description "Hi! I am a PhD student in the Department of Statistics & Data Science at Carnegie Mellon University"
+description              : &description "Matteo Bonvini's grad school website."
 url                      : https://matteobonvini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matteobonvini/matteobonvini.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matteo"
-  avatar           : bio_pic.jpg
-  bio              : "Hi! I am a PhD student in the Department of Statistics & Data Science at Carnegie Mellon University"
+  name             : "Matteo Bonvini"
+  avatar           : "bio_pic.jpg"
+  bio              : "Hi! I'm a graduate student in the department of Statistics & Data Science at Carnegie Mellon University."
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "matteobonvini"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:
 
 
 # Plugins
