@@ -1,6 +1,6 @@
 ---
 title: 'A novel enhanced recovery protocol, combining multimodal analgesia with liposomal bupivacaine and pharmacologic intervention, reduces parenteral opioid use and hospital length of stay after colectomy – A cohort study'
-permalink:
+permalink: /research/
 excerpt:
 date: 2018-01-01
 venue: 'International Journal of Surgery Open'
